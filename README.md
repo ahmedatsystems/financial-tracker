@@ -1,1 +1,2 @@
-# financial-tracker
+i want to build an email automation app which scans my email for bank mails and uses ai to see what the expenses were, at what place and puts them into a category. basically a financial tracker via email. what would be the best approach to build this with good ui and keeping in mind that deployment should be very easy. 
+lets say that since all the bank emails are by just the bank,  so instead of figuring out which email is from the bank from all the mails, the user just gives the address that the emails come from
